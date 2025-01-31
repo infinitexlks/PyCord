@@ -1,1 +1,8 @@
-pip install Flask Flask-SocketIO flask_sqlalchemy flask_jwt_extended
+flask-real-time-messaging/
+├── app/
+│   ├── __init__.py
+│   ├── models.py
+│   ├── routes.py
+│   └── extensions.py
+├── run.py
+└── config.py
